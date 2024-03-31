@@ -1,0 +1,57 @@
+import axios from "axios";
+import React, { useState } from "react";
+import { AiOutlineSearch } from "react-icons/ai";
+
+const SearchBar = ({ className, setFilteredProducts }) => {
+  const [searchTerm, setSearchTerm] = useState('');
+
+  const handleSearch = async (e) => {
+    e.preventDefault(); // Prevent the default form submission behavior
+    try {
+      const response1 = await axios.get(`http://localhost:8000/products1/products-search/${searchTerm}`);
+      const response2 = await axios.get(`http://localhost:8000/products2/products-search/${searchTerm}`);
+      
+      // Set source for products from the first API to "Amazon"
+      const products1 = response1.data.map((product) => ({
+        ...product,
+        source: "Amazon",
+      }));
+
+      // Set source for products from the second API to "Target"
+      const products2 = response2.data.map((product) => ({
+        ...product,
+        source: "Target",
+      }));
+
+      // Merge products from both sources
+      const mergedProducts = [...products1, ...products2];
+      setFilteredProducts(mergedProducts);
+    } catch (error) {
+      console.error('Error searching products:', error);
+    }
+  };
+
+  return (
+    <form onSubmit={handleSearch} className={`mx-auto relative mt-7`}>
+      <div className="relative flex items-center justify-center"> 
+        <div className="bg-black-500 flex items-center rounded-full p-2 pl-10 pr-10 hover:ring-2 hover:ring-blue-500 hover:ring-opacity-50 border border-black rounded-full px-4 w-100">
+          <AiOutlineSearch className="text-white-800 mr-2" />
+          <input
+            type="search"
+            placeholder="Search.."
+            className="flex-1 bg-transparent text-white-800 focus:outline-none border-none h-10"
+            onChange={(e) => setSearchTerm(e.target.value)}
+          />
+        </div>
+        <button
+          type="submit" 
+          className="bg-green-800 text-white px-4 py-2 rounded-lg ml-2"
+        >
+          Search
+        </button>
+      </div>
+    </form>
+  );
+};
+
+export default SearchBar;

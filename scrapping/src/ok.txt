@@ -1,0 +1,34 @@
+B0947BJ67M
+
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&m=&smid=&sourcecustomerorglistid=&sourcecustomerorglistitemid=&sr=8-1&pc=dp&experienceId=aodAjaxMain
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=%25252Caps%25252C374&crid=6ZZJ4DG6G6HV&keywords=laptop&dib_tag=se&dib=eyJ2IjoiMSJ9.kjrYF0m4YIY3iZ0GZsuLlQTsbjyen_CVg5C32ypU4OpIQhBOL3ZqDxl-7bqQrNkv-P2zUmdh9iZob6nQp0xxQ8TyYpf68RjEceTHjURRMqSLbyDBmUBAxL7LUjZPGxaYFPaTJ_H6XWuOytyv4qVQtCOmUeWGf_R0KMtiRqapllvEWwYoWcP635E_OOhps7aSyIPEQ9pBIql5nN3Srbui_Cb-sO6kjOpqcrVxPzDbszA.5RNrxWHXSWWC0U_7AHxLFQp9QcK4QT19rkND1RvV5KY&sr=8-1&rrid=PZGX15GDAM4X8S4DM51W&experienceId=aodAjaxMain`;
+async function getPrices(product_id) {authority:
+<span class="a-price aok-align-center centralizedApexPricePriceToPayMargin" data-a-size="medium_plus" data-a-color="base"><span class="a-offscreen">$236.36</span><span aria-hidden="true"><span class="a-price-symbol">$</span><span class="a-price-whole">236<span class="a-price-decimal">.</span></span><span class="a-price-fraction">36</span></span></span>
+<span class="a-offscreen">$236.36</span>
+
+
+
+<div id="aod-pinned-offer" class="a-section a-spacing-none aod-pinned-offer">     <div class="a-section a-spacing-none asin-container-padding aod-clear-float"> <div class="a-fixed-left-grid pinned-offer-inner">
+<div class="a-fixed-left-grid-inner" style="padding-left:165px"> <div id="pinned-image-id" class="a-fixed-left-grid-col offer-image-block aod-padding-right-10 a-col-left" style="width:165px;margin-left:-165px;float:left;"> 
+  <a class="a-spacing-none a-link-normal" href="/dp/B0947BJ67M/ref=sr_aod_dp_img"> <img alt="" src="https://m.media-amazon.com/images/I/41iUBrIDcDS.jpg" id="aod-asin-image-id"> </a>  
+       </div> <div id="pinned-de-id" class="a-fixed-left-grid-col pinned-offer-block a-col-right" style="padding-left:0%;float:left;">      
+          <div id="aod-asin-block-asin" class="a-section a-spacing-none"> <div id="aod-asin-title" class="a-row">  
+          <a class="a-spacing-none a-link-normal aod-asin-title-regular-text a-text-normal" href="/dp/B0947BJ67M/ref=sr_aod_dp_ttl"> <h5 id="aod-asin-title-text" class="aod-asin-title-text-class"> 
+          HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin &amp; Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, 2021, Snowflake White) </h5> 
+          </a>     </div>  <div id="aod-asin-reviews" class="a-row"> 
+           <span> <i id="aod-asin-reviews-star" class="a-icon a-icon-star a-star-4"></i> </span>  <span id="aod-asin-reviews-block"> <span id="aod-asin-reviews-count-title" class="a-size-small a-color-base aod-asin-reviews-block-class"> 974 ratings </span> </span> </div> 
+              <div class="a-row a-spacing-top-small"> <span class="a-size-base"> No featured offers available </span> </div> 
+            </div>     </div> </div></div>  </div> <hr aria-hidden="true" class="a-spacing-none a-divider-normal aod-offer-block-divider"> </div>
+
+
+
+            
+https://www.flipkart.com/hp-chromebook-14a-intel-celeron-dual-core-n4020-4-gb-64-gb-emmc-storage-chrome-os-14a-na0003tu/p/itm3686424b99d44?pid=COMFTYBZG8ZGJFHF&lid=LSTCOMFTYBZG8ZGJFHFR2KHJ7&marketplace=FLIPKART&q=HP+14+Laptop%2C+Intel+Celeron+N4020&store=6bo%2Fb5g&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=60b49989-3e3a-4949-8bb3-ee0357966178.COMFTYBZG8ZGJFHF.SEARCH&ppt=sp&ppn=sp&ssid=koovip3tqo0000001709282621552&qH=58f3bb9c73cf8aab
+
+            https://www.walmart.com/ip/HP-Stream-14-Laptop-Intel-Celeron-N4020-Processor-4GB-RAM-64GB-eMMC-Pink-Windows-11-S-mode-with-Office-365-1-yr-14-cf2112wm/443153637
+
+
+            https://www.walmart.com/ip/SGIN-15-6inch-Laptop-4GB-DDR4-128GB-SSD-Windows-11-with-4-Core-Intel-Celeron-HD-1366-768-IPS/1044996074
+
+
+            <span class="inline-flex flex-column"><span itemprop="price" aria-hidden="false">Now $169.00</span></span>

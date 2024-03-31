@@ -1,0 +1,161 @@
+'<!doctype html>\n' +
+      '<html>\n' +
+      '<head>\n' +
+      '  <meta charset="utf-8">\n' +
+      '  <meta http-equiv="x-ua-compatible" content="ie=edge">\n' +
+      '  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">\n' +
+      '  <title>Sorry! Something went wrong!</title>\n' +
+      '  <style>\n' +
+      '  html, body {\n' +
+      '    padding: 0;\n' +
+      '    margin: 0\n' +
+      '  }\n' +
+      '\n' +
+      '  img {\n' +
+      '    border: 0\n' +
+      '  }\n' +
+      '\n' +
+      '  #a {\n' +
+      '    background: #232f3e;\n' +
+      '    padding: 11px 11px 11px 192px\n' +
+      '  }\n' +
+      '\n' +
+      '  #b {\n' +
+      '    position: absolute;\n' +
+      '    left: 22px;\n' +
+      '    top: 12px\n' +
+      '  }\n' +
+      '\n' +
+      '  #c {\n' +
+      '    position: relative;\n' +
+      '    max-width: 800px;\n' +
+      '    padding: 0 40px 0 0\n' +
+      '  }\n' +
+      '\n' +
+      '  #e, #f {\n' +
+      '    height: 35px;\n' +
+      '    border: 0;\n' +
+      '    font-size: 1em\n' +
+      '  }\n' +
+      '\n' +
+      '  #e {\n' +
+      '    width: 100%;\n' +
+      '    margin: 0;\n' +
+      '    padding: 0 10px;\n' +
+      '    border-radius: 4px 0 0 4px\n' +
+      '  }\n' +
+      '\n' +
+      '  #f {\n' +
+      '    cursor: pointer;\n' +
+      '    background: #febd69;\n' +
+      '    font-weight: bold;\n' +
+      '    border-radius: 0 4px 4px 0;\n' +
+      '    -webkit-appearance: none;\n' +
+      '    position: absolute;\n' +
+      '    top: 0;\n' +
+      '    right: 0;\n' +
+      '    padding: 0 12px\n' +
+      '  }\n' +
+      '\n' +
+      '  @media (max-width: 500px) {\n' +
+      '    #a {\n' +
+      '      padding: 55px 10px 10px\n' +
+      '    }\n' +
+      '\n' +
+      '    #b {\n' +
+      '      left: 6px\n' +
+      '    }\n' +
+      '  }\n' +
+      '\n' +
+      '  #g {\n' +
+      '    text-align: center;\n' +
+      '    margin: 30px 0\n' +
+      '  }\n' +
+      '\n' +
+      '  #g img {\n' +
+      '    max-width: 90%\n' +
+      '  }\n' +
+      '\n' +
+      '  #d {\n' +
+      '    display: none\n' +
+      '  }\n' +
+      '\n' +
+      '  #d[src] {\n' +
+      '    display: inline\n' +
+      '  }\n' +
+      '  </style>\n' +
+      '</head>\n' +
+      '<body>\n' +
+      '    <a href="/ref=cs_503_logo"><img id="b" src="https://images-na.ssl-images-amazon.com/images/G/01/error/logo._TTD_.png" alt="Amazon.com"></a>\n' +
+      '    <form id="a" accept-charset="utf-8" action="/s" method="GET" role="search">\n' +
+      '        <div id="c">\n' +
+      '            <input id="e" name="field-keywords" placeholder="Search">\n' +
+      '            <input name="ref" type="hidden" value="cs_503_search">\n' +
+      '            <input id="f" type="submit" value="Go">\n' +
+      '        </div>\n' +
+      '    </form>\n' +
+      '<div id="g">\n' +
+      '  <div><a href="/ref=cs_503_link"><img src="https://images-na.ssl-images-amazon.com/images/G/01/error/500_503.png"\n' +
+      `                                        alt="Sorry! Something went wrong on our end. Please go back and try again or go to Amazon's home page."></a>\n` +
+      '  </div>\n' +
+      '  <a href="/dogsofamazon/ref=cs_503_d" target="_blank" rel="noopener noreferrer"><img id="d" alt="Dogs of Amazon"></a>\n' +
+      '  <script>document.getElementById("d").src = "https://images-na.ssl-images-amazon.com/images/G/01/error/" + (Math.floor(Math.random() * 43) + 1) + "._TTD_.jpg";</script>\n' +
+      '</div>\n' +
+      '</body>\n' +
+      '</html>\n
+
+
+B098JFL5DK
+
+
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=laptop%25252Caps%25252C347&crid=1HV3B4F916XYE&keywords=laptop&dib_tag=se&dib=eyJ2IjoiMSJ9.kjrYF0m4YIY3iZ0GZsuLla0Jx-ByM5UWWpc_akAnRGYCH33GwFwZpa40M8a_6eGh5MzNRJT68x8QQ3JByQzDMeEBjZBqQShwWrdTH12MM6ud90T-zceLzD5wvYJF_6ZW9MECnFnwQsl-VkRgWch2zA_cYmuEXEQPknq70HypQMqNLkNJi15DNuANMnEscLsIfxGUXTyOg4Xzujek2_sTz0BrwicRpc2k9IXyB22AJec.v-3dYOj3Yd_TCThyaEpQx3fxJZKRXleaStpSLnvLslI&sr=8-5&rrid=73S2FTCGP6H1Y2B4S9FG&experienceId=aodAjaxMain
+
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=laptop%25252Caps%25252C347&crid=1HV3B4F916XYE&keywords=laptop&dib_tag=se&dib=eyJ2IjoiMSJ9.kjrYF0m4YIY3iZ0GZsuLla0Jx-ByM5UWWpc_akAnRGYCH33GwFwZpa40M8a_6eGh5MzNRJT68x8QQ3JByQzDMeEBjZBqQShwWrdTH12MM6ud90T-zceLzD5wvYJF_6ZW9MECnFnwQsl-VkRgWch2zA_cYmuEXEQPknq70HypQMqNLkNJi15DNuANMnEscLsIfxGUXTyOg4Xzujek2_sTz0BrwicRpc2k9IXyB22AJec.v-3dYOj3Yd_TCThyaEpQx3fxJZKRXleaStpSLnvLslI&qid=1709291161&sr=8-5&rrid=73S2FTCGP6H1Y2B4S9FG&experienceId=aodAjaxMain
+
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&m=&smid=&sourcecustomerorglistid=&sourcecustomerorglistitemid=&sr=8-1&pc=dp&experienceId=aodAjaxMain
+
+ https://www.amazon.com/gp/product/ajax/?asin=${product_id}&m=&smid=&sourcecustomerorglistid=&sourcecustomerorglistitemid=&sr=1-1&pc=dp&experienceId=aodAjaxMain
+
+
+
+
+B0CKMYJ5VR
+
+ https://www.amazon.com/gp/product/ajax/?asin=B0CKMYJ5VR&pc=sp&rnid=2528832011&s=electronics&sprefix=laptop%25252Caps%25252C411&crid=9K5UOIO92S93&keywords=laptop&dib_tag=se&dib=eyJ2IjoiMSJ9.eBHwl0MhKGrJpj3PoVGN57IncrWexNbzHaZPersrViGvB2OWFxERaVj80uNQN2UYbOKH4DJwzexSQMMWjdeGDx0znfQcY7u3YZ9EMWTQs35cIp0g2DDabJYYkLMHM0kqXfk07sdbtC2LYe6DiOEIEiUeOlMpYG9tdwzV9CBGQfucmnG2LgKNPySNu3CHeqOfniJsGYWoN0MycRT-rV0hAQQe6sjD3ryjgmhhkyQ5GjRrCylxDaWMzUKAUm1OOXensCzYZ9ZHNJFEQL_T4SSsHoCVvv8-qldqWPQBcfzeAws.fuEjq6_xRLkXe-sCENFB502y_6OnWKBPOkI6_2EXuy4&refinements=p_89%25253ADell&sr=1-1&rrid=3VGVDPQK6A3YAM33277C&experienceId=aodAjaxMain
+
+
+
+
+
+
+B0C5MSQLRG
+
+ https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&rnid=2528832011&s=electronics&sprefix=%25252Caps%25252C387&crid=1ATKD2T3PB721&keywords=laptop&dib_tag=se&dib=eyJ2IjoiMSJ9.ev7jXSll-J-BnI7TaNVceET4atttSBvPw5oo1BbeNSf2zElT71t_XxHXchY3vb92I-XQNIl9cK6_IFKeWpH9zdNS_YIMBjuldJZTUWwhLnwKSG7_elliKie07P7Wf4qhJSHmF6ml6wUa1CJi31U-27O3HV36qHWw0Fb8vdL993vXrQQqiWPkjj-xFxhuLgTmE44-hybYVzLKV7z4z1zLvOYcZCRFohhRyynDPoMXn_6Eh7i1hT2oqFoGKXpGeOv89zSKHfntV3LDl-cQpOZOtItn4_7el3nKQRVBZHOfsLo.OaV_V_XqJhu1YVHmc3oGrzXoOBUaPMgsoG2hcrTWm-A&refinements=p_89%25253AAlienware%25257CMicrosoft&sr=1-3&rrid=KFR6C0Z9KJ6ARV80VD7C&experienceId=aodAjaxMain
+
+
+
+
+
+
+
+
+B0BFYRV4CD
+  https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=mobile%25252Caps%25252C355&crid=2LVLPM7JRG5XX&keywords=mobile%252Bphones&dib_tag=se&dib=eyJ2IjoiMSJ9.d_7v8wt4WI_nIHqWvls8Z3DCEiSaykGEhXwzrNKB0N6kUr0HQl3D8Wq-F5fgmooYC8AtlyHaley6IApbAmzGVzobvaCLGcZSfaT0a1Mfe4Ck1JBLoBcR_i78ZreYSRCjeDy0ByEyysO59vuepYmLrvZ4uKh7bP5LjpW_cfK5CAGfWy7dVugFCtRxDQBYKeC6PN1qlnAy1vMuQ7HVaRcto8mM7M30LxfXj3YQ_QRmfqg.1Tn_qpUtr0QPWgSkbKSOiflvEeQmW4xU5wqwm0NuVlw&sr=8-1&rrid=9XCWBCP8YAEVKVQNCAR9&experienceId=aodAjaxMain
+
+
+B0B3PSRHHN
+  https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=mobile%25252Caps%25252C355&crid=2LVLPM7JRG5XX&keywords=mobile%252Bphones&dib_tag=se&dib=eyJ2IjoiMSJ9.d_7v8wt4WI_nIHqWvls8Z3DCEiSaykGEhXwzrNKB0N6kUr0HQl3D8Wq-F5fgmooYC8AtlyHaley6IApbAmzGVzobvaCLGcZSfaT0a1Mfe4Ck1JBLoBcR_i78ZreYSRCjeDy0ByEyysO59vuepYmLrvZ4uKh7bP5LjpW_cfK5CAGfWy7dVugFCtRxDQBYKeC6PN1qlnAy1vMuQ7HVaRcto8mM7M30LxfXj3YQ_QRmfqg.1Tn_qpUtr0QPWgSkbKSOiflvEeQmW4xU5wqwm0NuVlw&sr=8-6&rrid=9XCWBCP8YAEVKVQNCAR9&experienceId=aodAjaxMain
+B09DHSPDRQ
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=mobile%25252Caps%25252C355&crid=2LVLPM7JRG5XX&keywords=mobile%252Bphones&dib_tag=se&dib=eyJ2IjoiMSJ9.d_7v8wt4WI_nIHqWvls8Z3DCEiSaykGEhXwzrNKB0N6kUr0HQl3D8Wq-F5fgmooYC8AtlyHaley6IApbAmzGVzobvaCLGcZSfaT0a1Mfe4Ck1JBLoBcR_i78ZreYSRCjeDy0ByEyysO59vuepYmLrvZ4uKh7bP5LjpW_cfK5CAGfWy7dVugFCtRxDQBYKeC6PN1qlnAy1vMuQ7HVaRcto8mM7M30LxfXj3YQ_QRmfqg.1Tn_qpUtr0QPWgSkbKSOiflvEeQmW4xU5wqwm0NuVlw&sr=8-12&rrid=9XCWBCP8YAEVKVQNCAR9&experienceId=aodAjaxMain
+B0CRVWXJ6H
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&sprefix=mobile%25252Caps%25252C355&crid=2LVLPM7JRG5XX&keywords=mobile%252Bphones&dib_tag=se&dib=eyJ2IjoiMSJ9.d_7v8wt4WI_nIHqWvls8Z3DCEiSaykGEhXwzrNKB0N6kUr0HQl3D8Wq-F5fgmooYC8AtlyHaley6IApbAmzGVzobvaCLGcZSfaT0a1Mfe4Ck1JBLoBcR_i78ZreYSRCjeDy0ByEyysO59vuepYmLrvZ4uKh7bP5LjpW_cfK5CAGfWy7dVugFCtRxDQBYKeC6PN1qlnAy1vMuQ7HVaRcto8mM7M30LxfXj3YQ_QRmfqg.1Tn_qpUtr0QPWgSkbKSOiflvEeQmW4xU5wqwm0NuVlw&sr=8-13&rrid=9XCWBCP8YAEVKVQNCAR9&experienceId=aodAjaxMain
+B0CCT22LZ4
+https://www.amazon.com/gp/product/ajax/?asin=${product_id}&pc=sp&rnid=2528832011&s=wireless&sprefix=mobile%25252Caps%25252C355&crid=2LVLPM7JRG5XX&keywords=mobile%252Bphones&dib_tag=se&dib=eyJ2IjoiMSJ9.ybV6knKHzO1hCSUlcXIDxr6yLeyctcnHaSzxghCtXhmXZY1VJniPgnRbJ5ULFHiY73m8lX4NFDyNhZulXPqaNT8UdNrNksZZ9WiYVnZhN9Uxz_ji5w3FPDlfH6RRFY08mJ-oTkGSm4Q-kGfsQ5Uj5bGjawU0FIp8HjYGFUot6QBm0R2DI03P-cey8PYtal1CZQHS1wqw0AovlN9MisbVx-bZfz2zyF4kEjm6bMcnGEOAIxIgL_lgq96dHpWMjjHGnkXzDavu24fMgigj4cJNdKfgf44CytbsFHQ_b_tBf8U.31R97wcRKu9IBsJowCRimUR6P52oTbcVoEGGgV1MPxg&refinements=p_89%25253ATracFone&sr=1-3&rrid=ZVH5017K4ZTQ75HJFETD&experienceId=aodAjaxMain
+
+
+
+
+
+
+
+dealsdirect.com/hp-laptop-14-dq0080nr-14-touch-intel-celeron-4gb-ram-64gb-emmc-windows-10-s-white/
